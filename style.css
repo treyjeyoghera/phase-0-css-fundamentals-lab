@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align:center;
+}
+/*.image{
+  display: flex;
+  margin: auto;
+}*/
+  figcaption{
+    text-align: center;
+  }
+section#featured-property img.image{
+  display: flex;
+  margin: auto;
+  text-align: center;
+}
+.z{
+width: 800px;
+display: flex;
+margin: auto;
+}
+#details{
+  display: flex;
+  float: left;
+  width: 100%;
+  background-color: red;
+  margin-right: 200px;
+  padding-right: 1000px;
+  
+}
+.tx{
+  text-align: center;
+}
